@@ -8,7 +8,7 @@ import tqdm
 
 ATTRS_NAME = "dataset/lfw_attributes.txt"  # http://www.cs.columbia.edu/CAVE/databases/pubfig/download/lfw_attributes.txt
 IMAGES_NAME = "dataset/lfw-deepfunneled.tgz"  # http://vis-www.cs.umass.edu/lfw/lfw-deepfunneled.tgz
-RAW_IMAGES_NAME = "dataset/lfw.tgz"  # http://vis-www.cs.umass.edu/lfw/lfw.tgz
+RAW_IMAGES_NAME = "lfw.tgz"  # http://vis-www.cs.umass.edu/lfw/lfw.tgz
 
 
 def decode_image_from_raw_bytes(raw_bytes):

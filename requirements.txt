@@ -2,3 +2,5 @@ numpy
 pandas
 sklearn
 opencv-python
+https://github.com/Theano/Theano/archive/master.zip
+https://github.com/lasagne/lasagne/archive/master.zip
